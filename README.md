@@ -12,3 +12,12 @@ The dataset contains audio recordings for scam and normal calls.
 **Contents:**
 - `Scam Calls/` - Contains scam call audio files.
 - `Normal Calls/` - Contains normal call audio files.
+
+
+## Citation  
+If you use this dataset, please cite:  
+
+**"Scam_Calls_Detection"** – A Capstone Project by Amrita Vishwa Vidhyapeetham.  
+Authors: Dhanya CH.SC.U4CYS23004, Vedavalli CH.SC.U4CYS23033, Sudharsan CH.SC.U4CYS23055
+
+Year: 2025  
